@@ -1,0 +1,2 @@
+# ImageAnalyzerConsoleApp
+ImageAnalyzerConsoleApp
