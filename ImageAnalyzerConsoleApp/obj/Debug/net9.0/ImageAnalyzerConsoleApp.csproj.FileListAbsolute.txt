@@ -1,0 +1,14 @@
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\bin\Debug\net9.0\ImageAnalyzerConsoleApp.exe
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\bin\Debug\net9.0\ImageAnalyzerConsoleApp.deps.json
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\bin\Debug\net9.0\ImageAnalyzerConsoleApp.runtimeconfig.json
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\bin\Debug\net9.0\ImageAnalyzerConsoleApp.dll
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\bin\Debug\net9.0\ImageAnalyzerConsoleApp.pdb
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ImageAnalyzerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ImageAnalyzerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ImageAnalyzerConsoleApp.AssemblyInfo.cs
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ImageAnalyzerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ImageAnalyzerConsoleApp.dll
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\refint\ImageAnalyzerConsoleApp.dll
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ImageAnalyzerConsoleApp.pdb
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ImageAnalyzerConsoleApp.genruntimeconfig.cache
+C:\Users\simone.ferrari\source\repos\ImageAnalyzerConsoleApp\obj\Debug\net9.0\ref\ImageAnalyzerConsoleApp.dll
